@@ -2,9 +2,6 @@ backend:
   name: github
   repo: AranSeshita/netlifycms-poc
 
-backend:
-  name: git-gateway
-
 media_folder: static/assets
 public_folder: /assets
 
